@@ -1,0 +1,29 @@
+{
+  "name": "node-bb",
+  "version": "1.0.0",
+  "description": "node-宝宝。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "fis3 release -wc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biluochun/node-bb.git"
+  },
+  "keywords": [
+    "node-bb"
+  ],
+  "author": "imconfig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biluochun/node-bb/issues"
+  },
+  "homepage": "https://github.com/biluochun/node-bb#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "fis3-parser-typescript": "^1.1.4",
+    "pm2": "^2.5.0",
+    "tslib": "^1.7.1"
+  }
+}

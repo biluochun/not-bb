@@ -1,7 +1,7 @@
 {
-  "name": "node-bb",
+  "name": "not-bb",
   "version": "1.0.0",
-  "description": "node-宝宝。",
+  "description": "not-宝宝。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/biluochun/node-bb.git"
+    "url": "git+https://github.com/biluochun/not-bb.git"
   },
   "keywords": [
-    "node-bb"
+    "not-bb"
   ],
   "author": "imconfig",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/biluochun/node-bb/issues"
+    "url": "https://github.com/biluochun/not-bb/issues"
   },
-  "homepage": "https://github.com/biluochun/node-bb#readme",
+  "homepage": "https://github.com/biluochun/not-bb#readme",
   "dependencies": {
     "express": "^4.15.3",
     "fis3-parser-typescript": "^1.1.4",

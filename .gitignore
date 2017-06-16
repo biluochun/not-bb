@@ -1,5 +1,5 @@
 npm-debug.log
-**.es
+*.es
 .vscode
 .eslintrc.json
 fis-conf.js

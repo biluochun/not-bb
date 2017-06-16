@@ -1,7 +1,7 @@
 {
   "name": "not-bb",
-  "version": "1.0.0",
-  "description": "not-宝宝。",
+  "version": "1.0.4",
+  "description": "简单建站",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,8 +12,12 @@
     "url": "git+https://github.com/biluochun/not-bb.git"
   },
   "keywords": [
-    "not-bb"
+    "not-bb",
+    "web"
   ],
+  "engines": {
+    "node": ">= 6.9.4"
+  },
   "author": "imconfig",
   "license": "MIT",
   "bugs": {
@@ -22,8 +26,16 @@
   "homepage": "https://github.com/biluochun/not-bb#readme",
   "dependencies": {
     "express": "^4.15.3",
-    "fis3-parser-typescript": "^1.1.4",
     "pm2": "^2.5.0",
     "tslib": "^1.7.1"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "lib/"
+  ],
+  "devDependencies": {
+    "fis3-parser-typescript": "^1.1.4"
   }
 }

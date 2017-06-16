@@ -1,2 +1,2 @@
-# node-bb
-node-宝宝。
+# not-bb
+not-bb

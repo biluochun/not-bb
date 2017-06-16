@@ -1,7 +1,7 @@
 ﻿/* global fis */
 
 const devFiles = '*.es';
-fis.set('project.files', [devFiles]);
+fis.set('project.files', [devFiles, '**.html']);
 fis.set('project.ignore', ['/node_modules/**']);
 
 fis.match(devFiles, {
